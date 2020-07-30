@@ -1,0 +1,9 @@
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\bin\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.deps.json
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\bin\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\bin\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.csprojAssemblyReference.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.AssemblyInfoInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.AssemblyInfo.cs
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.csproj.CoreCompileInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.WebApi.Route\obj\Debug\netstandard2.0\CoinCoinsInsolites.WebApi.Route.pdb

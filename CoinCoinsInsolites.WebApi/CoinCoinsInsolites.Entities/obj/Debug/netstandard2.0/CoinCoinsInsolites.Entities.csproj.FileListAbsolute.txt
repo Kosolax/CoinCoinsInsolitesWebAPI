@@ -1,0 +1,9 @@
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.deps.json
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.csprojAssemblyReference.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.AssemblyInfoInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.AssemblyInfo.cs
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.Entities\obj\Debug\netstandard2.0\CoinCoinsInsolites.Entities.csproj.CoreCompileInputs.cache

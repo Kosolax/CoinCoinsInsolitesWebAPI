@@ -1,0 +1,14 @@
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.deps.json
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.csprojAssemblyReference.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.AssemblyInfoInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.AssemblyInfo.cs
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.csproj.CoreCompileInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.IBusiness\obj\Debug\netstandard2.0\CoinCoinsInsolites.IBusiness.csproj.CopyComplete

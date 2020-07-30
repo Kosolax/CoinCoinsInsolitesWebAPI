@@ -1,0 +1,15 @@
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\bin\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.deps.json
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\bin\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\bin\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\bin\Debug\netstandard2.0\CoinCoinsInsolites.Entities.pdb
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.csprojAssemblyReference.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.Validation.Resources.PlaceValidationResources.resources
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.Validation.Resources.UserValidationResources.resources
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.csproj.GenerateResource.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.AssemblyInfoInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.AssemblyInfo.cs
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.csproj.CopyComplete
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.dll
+C:\Users\minin\Desktop\CoinCoin\CoinCoinsInsolites.WebApi\CoinCoinsInsolites.BusinessObject\obj\Debug\netstandard2.0\CoinCoinsInsolites.BusinessObject.pdb
