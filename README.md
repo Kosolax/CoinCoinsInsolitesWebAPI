@@ -1,6 +1,6 @@
 # CoinCoinsInsolitesWebAPI
 
-Voir aussi : [La même web api mais en java](https://github.com/Kosolax/CoinCoins_Insolites_Web_Api_Java)
+Voir d'abord : [La même web api mais en java](https://github.com/Kosolax/CoinCoins_Insolites_Web_Api_Java)
 
 ## Choix de la technologie et de l'approche
 
