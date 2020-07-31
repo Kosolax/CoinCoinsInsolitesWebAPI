@@ -10,6 +10,8 @@ Cette approche va nous permettre de développer notre WEB API dans notre coin et
 
 ## Fonctionnalité de la web api
 
+Puisqu'on utilise un ORM tout ce qui est relié au problème de sécurité sont pour la plus part corrigé ! En effet l'injection SQL et ce genre de chose sont déjà géré par l'orm.
+
 * Une architecture
 * Les champs importants de la base de données sont cryptés
 * Validation d'objets (pour éviter de rentrer de la mauvaise donnée en base de données)
