@@ -38,4 +38,4 @@ Contrairement à la web api en java il n'y a pas de TU car je n'ai pas eu le tem
 
 * WebApi : Ici il y a les controllers et les fichiers de config. C# met à disposition IConfiguration qui permet de lire dans les fichiers de configuration. J'ai donc mis les clés de cryptage dedans. Les controllers permettent d'exposer les fonctions disponibles aux autres clients.
 
-* WebApi.Route : Une bibliothèque de constant pour définir les routes des controllers
+* WebApi.Route : Une bibliothèque de constante pour définir les routes des controllers
