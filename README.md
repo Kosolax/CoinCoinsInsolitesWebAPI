@@ -17,6 +17,7 @@ Puisqu'on utilise un ORM tout ce qui est relié au problème de sécurité sont 
 * Validation d'objets (pour éviter de rentrer de la mauvaise donnée en base de données)
 * Seed (comme faker mais on le fait nous-mêmes dans l'api)
 * CRUD disponible pour d'autres clients sur les objets User et Place (On n'avait pas forcément besoin de tout le CRUD pour l'exercice mais tant qu'à faire j'ai tout fait)
+* Contrairement au java, tous les appels ici sont asynchrones
 
 Contrairement à le web api en java il n'y a pas de TU car je n'ai pas eu le temps de les refaire.
 
