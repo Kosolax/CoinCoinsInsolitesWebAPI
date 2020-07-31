@@ -39,3 +39,7 @@ Contrairement à la web api en java il n'y a pas de TU car je n'ai pas eu le tem
 * WebApi : Ici il y a les controllers et les fichiers de config. C# met à disposition IConfiguration qui permet de lire dans les fichiers de configuration. J'ai donc mis les clés de cryptage dedans. Les controllers permettent d'exposer les fonctions disponibles aux autres clients.
 
 * WebApi.Route : Une bibliothèque de constante pour définir les routes des controllers
+
+## Qui à fait quoi sur la WEB API C# ?
+
+Maël : 100% --> Mise en place de entity framework, mise en place de l'architecture, développements des fonctionnalités, mise en place des seeds, mise en place de la cryptographie, test des fonctionnalités via postman. Grosse recherche sur comment authentifé des web services entre eux (abandonné par manque de temps).
